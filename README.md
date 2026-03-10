@@ -29,16 +29,20 @@ These use Kron4ek's wine-tkg (protonified Wine) as the Wine base paired with Kro
 
 ### Bleeding Edge Builds
 
-These use Kron4ek's Valve Steam Proton builds as the Proton base, but swap in a **Valve Bleeding Edge** Wine build as the Wine base instead. They follow the same version numbering as the standard releases and are x86_64 only.
+All bleeding edge builds use the **Valve Bleeding Edge** Wine build (`8.0-15630-g61cbb052f84`) as the Wine base, paired with different Proton bases — either Kron4ek's Valve Steam Proton builds (versioned), or Valve's own **Experimental** and **Hotfix** Proton branches downloaded directly from Steam. All are x86_64 only.
 
 > ⚠️ **Heads up:** Bleeding edge builds are based on in-development Wine code. They may offer better compatibility or performance for some titles, but can also be less stable than the standard releases. If something breaks, try the equivalent standard build.
 
-| Version | Build Name |
-|---------|------------|
+| Version / Variant | Build Name |
+|-------------------|------------|
 | 10.0-4  | `wine-proton-10.0-4-bleeding_edge-x86_64` |
 | 9.0-4   | `wine-proton-9.0-4-bleeding_edge-x86_64` |
 | 8.0-5   | `wine-proton-8.0-5-bleeding_edge-x86_64` |
 | 7.0-6   | `wine-proton-7.0-6-bleeding_edge-x86_64` |
+| Experimental | `wine-proton-experimental-bleeding_edge-x86_64` |
+| Hotfix  | `wine-proton-hotfix-bleeding_edge-x86_64` |
+
+The **Experimental** build uses Valve's Proton Experimental branch — Valve's own testing ground for new features and fixes before they land in stable Proton. The **Hotfix** build uses Valve's Proton Hotfix branch, which carries urgent patches that Valve pushes outside of the normal release cycle. Both are pulled straight from Steam.
 
 Head to the [**Releases**](../../releases) tab to download.
 
