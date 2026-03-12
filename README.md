@@ -46,7 +46,7 @@ The **Experimental** build uses Valve's Proton Experimental branch — Valve's o
 
 ### Experimental Wine + GE-Proton Builds
 
-These pair Kron4ek's **protonified wine-experimental** builds as the Wine base with various Proton bases. The versioned 10.0 and 9.0 builds use **GE-Proton** (GE-Proton 10-32 and GE-Proton 9-27 respectively), while the Experimental and Hotfix variants use Valve's own Proton branches pulled from Steam — all on the wine-experimental 10.0 base. The 9.0 builds come in both amd64 and x86 variants; all others are amd64-wow64 only.
+These pair Kron4ek's **protonified wine-experimental** builds as the Wine base with various Proton bases. The versioned 10.0 and 9.0 builds use **GE-Proton**, while the Experimental and Hotfix variants use Valve's own Proton branches pulled from Steam — all on the wine-experimental 10.0 base. The 9.0 builds come in both amd64 and x86 variants; all others are amd64-wow64 only.
 
 | Version / Variant | Build Name |
 |-------------------|------------|
