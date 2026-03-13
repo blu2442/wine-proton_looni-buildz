@@ -13,7 +13,7 @@ These are made to provide stable as well as experimental and bleeding edge build
 
 ## Available Releases
 
-### Standard Builds
+### Stable Builds
 
 These use Kron4ek's wine-tkg protonified Wine as the Wine base paired with Kron4ek's Proton builds.
 
@@ -31,7 +31,7 @@ These use Kron4ek's wine-tkg protonified Wine as the Wine base paired with Kron4
 
 All bleeding edge builds use the **Valve Bleeding Edge** Wine build (`8.0-15630-g61cbb052f84`) as the Wine base, paired with Valve's own Proton builds pulled directly from Steam. All are x86_64 only.
 
-> ⚠️ **Heads up:** Bleeding edge builds are based on in-development Wine code. They may offer better compatibility or performance for some titles, but can also be less stable than the standard releases. If something breaks, try the equivalent standard build.
+> ⚠️ **Heads up:** Bleeding edge builds are based on in-development Wine code. They may offer better compatibility or performance for some titles, but can also be less stable than the standard releases. If something breaks, try the equivalent stable build.
 
 | Version / Variant | Build Name |
 |-------------------|------------|
