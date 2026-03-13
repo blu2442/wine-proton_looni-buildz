@@ -9,7 +9,7 @@ These are prebuilt hybrids that combine a Wine build and a Proton build:
 - **Wine base** —  any upstream/custom Wine build
 - **Proton base** — any official/custom Proton build
 
-These are made to provide stable as well as experimental and bleeding edge builds — no modifications are made other than using umu-protonfixes as opposed to just plain protonfixes in the installer. It's just the effort to put together some good to use builds that work well and can be used inside and outside of your launcher of choice. Just extract the tarball and drop the wine-proton into your folder of choice. Then it will be ready to use :3
+These are made to provide stable as well as experimental and bleeding edge builds — no modifications are made other than using umu-protonfixes as opposed to plain protonfixes in the installer. It's just the effort to put together some good to use builds that work well and can be used inside and outside of your launcher of choice. Just extract the tarball and drop the wine-proton into your folder of choice. Then it will be ready to use :3
 
 ## Available Releases
 
