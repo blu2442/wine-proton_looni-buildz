@@ -4,18 +4,18 @@ Prebuilt **wine-proton hybrid** binaries for those who want to use wine-proton w
 
 ## What's This?
 
-These are hybrid builds that combine two of [Kron4ek's](https://github.com/Kron4ek/Wine-Builds) builds together:
+These are prebuilt hybrids that combine a Wine build and a Proton build:
 
-- **Wine base** — Kron4ek's [wine-tkg](https://github.com/Frogging-Family/wine-tkg-git) builds (protonified Wine)
-- **Proton base** — Kron4ek's official Valve Steam Proton builds
+- **Wine base** —  any upstream/custom Wine build
+- **Proton base** — any official/custom Proton build
 
-The result is a wine-proton hybrid that's ready to drop into your launcher of choice. These are provided purely for convenience — no modifications are made, just the legwork of putting them together so you don't have to.
+The result is a wine-proton hybrid that's ready to drop into your launcher of choice. These are made to provide stable as well as experimental and bleeding edge builds — no modifications are made other than using umu-protonfixes as opposed to just plain protonfixes in the installer. It's just the effort to put together some good to use builds that work well and can be used inside and outside of your launcher of choice. Just extract the tarball and drop the wine-proton into your folder of choice. Then it will be ready to use :3
 
 ## Available Releases
 
 ### Standard Builds
 
-These use Kron4ek's wine-tkg (protonified Wine) as the Wine base paired with Kron4ek's Valve Steam Proton builds.
+These use Kron4ek's wine-tkg protonified Wine as the Wine base paired with Kron4ek's Proton builds.
 
 | Version | Build Name |
 |---------|------------|
