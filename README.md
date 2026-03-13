@@ -44,7 +44,7 @@ All bleeding edge builds use the **Valve Bleeding Edge** Wine build (`8.0-15630-
 
 The **Experimental** build uses Valve's Proton Experimental branch — Valve's own testing ground for new features and fixes before they land in stable Proton. The **Hotfix** build uses Valve's Proton Hotfix branch, which carries urgent patches that Valve pushes outside of the normal release cycle. Both are pulled straight from Steam.
 
-### Experimental wine-proton Builds
+### Experimental Builds
 
 These pair Kron4ek's **protonified wine-experimental** builds as the Wine base with various Proton bases. The versioned 10.0 and 9.0 builds use **GE-Proton**, while the Experimental and Hotfix variants use Valve's own Proton branches pulled from Steam — all on the wine-experimental 10.0 base. The 9.0 builds come in both amd64 and x86 variants; all others are amd64-wow64 only.
 
