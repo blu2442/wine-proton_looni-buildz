@@ -74,10 +74,7 @@ If you're using a launcher like **Lutris**, **Bottles**, or **Heroic**, you can 
 
 ## Credits
 
-- [Kron4ek / Wine-Builds](https://github.com/Kron4ek/Wine-Builds) — Upstream wine-tkg and Proton builds
-- [Frogging-Family / wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) — TkG's Wine build system
-- [Valve / Proton](https://github.com/ValveSoftware/Proton) — Upstream Proton patches
-- [GloriousEggroll / GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) — Community Proton builds
+Built on top of [ValveSoftware](https://github.com/ValveSoftware/wine), [Wine-TKG](https://github.com/Frogging-Family/wine-tkg-git), [Proton-TKG](https://github.com/Kron4ek/proton-archive), [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom), [protonfixes](https://github.com/nicowillis/protonfixes), [umu-protonfixes](https://github.com/Open-Wine-Components/umu-protonfixes), and the broader Wine project.
 
 ## License
 
